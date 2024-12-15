@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Android Development and Kotlin<br>🏫 I am studying at VSB-Technical University of Ostrava<br>🎓 I have a Bachelor's degree in Computer Science and I'm pursuing Master's<br>🎲 Fun fact: I am a huge D&D nerd and the reason I am learning Android dev is to make an app for our D&D group.</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 Currently learning Android Development and Kotlin<br>🏫 Studying at VSB-Technical University of Ostrava<br>🎓 Bachelor's degree in Computer Science and pursuing Master's<br>🎲 Fun fact: I am a huge D&D nerd and the reason I am learning Android dev is to make an app for our D&D party.</p>
 
 <h2 align="left">Contacts</h2>
 
