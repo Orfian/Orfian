@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Also known as Miroslav, Mirek, Myrče, Oro...<br>I am a 23 years old guy from Czechia.</p>
+<p align="left">Also known as Oro, Mirek, Myrče, or Miroslav.</p>
 
 ###
 
